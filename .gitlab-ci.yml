@@ -10,5 +10,3 @@ test:
   artifacts:
     paths:
     - test
-  except:
-  - master
