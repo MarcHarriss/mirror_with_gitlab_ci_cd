@@ -6,3 +6,6 @@ test push to protected master branch v2
 committing worked.
 
 Now admins are enforced by the rules too
+
+Doesn't prevent straight commits to master, only force push and overwriting previous commits
+push to master with approval before merge requiring 1 review
